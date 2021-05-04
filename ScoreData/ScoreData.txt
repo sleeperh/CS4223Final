@@ -1,0 +1,1 @@
+{"highScoreEntryList":[{"score":64,"name":"Randi"},{"score":62,"name":"Jennifer"},{"score":41,"name":"George"},{"score":34,"name":"Jill"},{"score":32,"name":"Jasper"},{"score":30,"name":"David"},{"score":28,"name":"Michelle"},{"score":27,"name":"Jerome"},{"score":22,"name":"Jason"},{"score":0,"name":""}]}
